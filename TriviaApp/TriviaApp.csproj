@@ -9,6 +9,14 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.19.2" />
+    <PackageReference Include="dotenv.net" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TriviaApp.Services\TriviaApp.Services.csproj" />
+    <ProjectReference Include="..\TriviaApp.Models\TriviaApp.Models.csproj" />
+    <ProjectReference Include="..\TriviaApp.DataAccess\TriviaApp.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>
