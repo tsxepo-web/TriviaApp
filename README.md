@@ -2,4 +2,4 @@
 
 ## Api-Design
 
-![png](C:\Users\tsxepo\Documents\TriviaApp\trivia-app.drawio.png)
+![png](https://github.com/tsxepo-web/TriviaApp/blob/master/trivia-app.drawio.png)
