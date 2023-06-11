@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TriviaAppBackend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7C5DE720F7E47318A453D523A288B1C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D164D34BF9F4C00BE5472C93485D454 }}
           package: .
